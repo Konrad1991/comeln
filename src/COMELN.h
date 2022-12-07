@@ -71,6 +71,8 @@ extern "C" {
 
 extern GoInt DownloadIt(GoString p0, GoString p1, GoString p2, GoString p3);
 
+extern GoInt UploadIt(GoString p0, GoString p1, GoString p2, GoString p3, GoString p4);
+
 #ifdef __cplusplus
 }
 #endif
